@@ -1,0 +1,28 @@
+name: Washington DC Photobooth
+favicon: null
+layout_spectrum: 0.5058842957951128
+typography_spectrum: 0.9059980048332363
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.30728714587166905
+  lightness: 0.20735610765405
+  saturation: 0.023017241153866053
+  rhythmicContrast: 0.5241984515450895
+purpose: []
